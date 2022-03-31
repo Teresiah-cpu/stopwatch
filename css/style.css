@@ -4,7 +4,9 @@
 }
 
 body{
-    background-color: rgb(162, 182, 182);
+    /* background-color: rgb(162, 182, 182); */
+    background: linear-gradient(to left,#424e50,#b3dff5,#b1c3df);
+
 }
 .container{
     text-align: center;
@@ -16,6 +18,10 @@ button{
     width: 100px;
     height: 30px;
     margin-top: 40px;
+    background-color: rgb(5, 5, 27);
+    color: white;
+    font-family: sans-serif;
+    
 
 }
 h1{
