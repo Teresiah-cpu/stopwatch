@@ -26,4 +26,9 @@ button{
 }
 h1{
     margin-bottom: 20px;
+    font-size: 6em;
+    color: #424e50;
+}
+p{
+    font-size: 3em;
 }
